@@ -1,3 +1,4 @@
+#selection sort in python
 A = [102,6,74,50,64,98,47,63,112]
 for i in range(len(A)):
 	min_idx = i
